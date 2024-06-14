@@ -1,0 +1,40 @@
+# Python-specific files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit-specific files
+.streamlit/
+
+# Encryption key
+encryption_key.key
+
+# Compiled Python files
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook backup files
+.ipynb_checkpoints/
+
+# Environment-specific files
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+
+# Miscellaneous
+*.log
+*.pot
+*.pyo
+*~
